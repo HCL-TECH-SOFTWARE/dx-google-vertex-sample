@@ -40,7 +40,7 @@ Configure a WAS environment variable with defined service account
 ![image](https://github.com/HCL-TECH-SOFTWARE/dx-google-vertex-sample/assets/7836735/9e835e98-38c1-4697-9ce2-521f85463b57)
 
 
-Follow the steps for https://opensource.hcltechsw.com/digital-experience/CF214/get_started/plan_deployment/traditional_deployment/wcm_env/wcm_ai_analysis/?h=custom+ai#configuring-ai-class-for-custom-content-ai-provider passing the classname as com.hcl.GoogleVertexAnalyzerSample.
+Follow the steps for [https://opensource.hcltechsw.com/digital-experience/CF214/get_started/plan_deployment/traditional_deployment/wcm_env/wcm_ai_analysis/?h=custom+ai#configuring-ai-class-for-custom-content-ai-provider](https://opensource.hcltechsw.com/digital-experience/latest/get_started/plan_deployment/traditional_deployment/wcm_env/wcm_ai_analysis/?h=custom+ai#configuring-ai-class-for-custom-content-ai-provider) passing the classname as com.hcl.GoogleVertexAnalyzerSample.
 I.e. it would look like this:
 ![image](https://github.com/HCL-TECH-SOFTWARE/dx-google-vertex-sample/assets/7836735/fab3c8db-58df-4d09-b873-1c2b1a7648bb)
 
