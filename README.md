@@ -1,6 +1,6 @@
 # hcl-dx-google-vertex-sample
 
-![image](https://github.com/HCL-TECH-SOFTWARE/dx-google-vertex-sample/assets/1fe70740-9ecc-40f1-859f-7470c89d5afe.png)
+![image](./assets/1fe70740-9ecc-40f1-859f-7470c89d5afe.png)
 
 Combined with:
 
