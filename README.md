@@ -11,9 +11,9 @@ Built with:
 ![image](./assets/32712f9b-4fb3-4224-9c9c-31061fb85038.png)
 
 
-This project contains the source code and build for a sample AI integration for DX for WCM following the model established in https://opensource.hcltechsw.com/digital-experience/latest/get_started/plan_deployment/container_deployment/wcm_content_ai_analysis.html?h=analysis#configuring-ai-class-for-custom-content-ai-provider.
+This project contains the source code and build for a sample AI integration for DX for WCM following the model established in https://opensource.hcltechsw.com/digital-experience/latest/get_started/plan_deployment/container_deployment/wcm_content_ai_analysis/#custom-configurations-for-ai-analysis.
 
-It leverages Google Vertex AI for sentiment analysis, summary and keyword generation.
+It leverages Google Vertex AI (see: https://cloud.google.com/vertex-ai ) for sentiment analysis, summary and keyword generation.
 
 The build of the project is established via maven.
 
